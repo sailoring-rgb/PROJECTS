@@ -61,3 +61,9 @@
 [submodule "Mestrado/1º Ano/1º Semestre/Aplicações e Serviços de Computação em Nuvem/projetoASCN"]
 	path = Mestrado/1º Ano/1º Semestre/Aplicações e Serviços de Computação em Nuvem/projetoASCN
 	url = https://github.com/AnaHenriques01/projetoASCN
+[submodule "Mestrado/1º Ano/1º Semestre/Métodos Formais de Engenharia Software/trabalhosMFES"]
+	path = Mestrado/1º Ano/1º Semestre/Métodos Formais de Engenharia Software/trabalhosMFES
+	url = https://github.com/AnaHenriques01/trabalhosMFES
+[submodule "Mestrado/1º Ano/1º Semestre/Engenharia de Serviços em Rede/projetosESR"]
+	path = Mestrado/1º Ano/1º Semestre/Engenharia de Serviços em Rede/projetosESR
+	url = https://github.com/AnaHenriques01/projetosESR
