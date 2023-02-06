@@ -19,3 +19,30 @@
 [submodule "Licenciatura/2º Ano/Programação Orientada aos Objetos/projetoPOO"]
 	path = Licenciatura/2º Ano/Programação Orientada aos Objetos/projetoPOO
 	url = https://github.com/AnaHenriques01/projetoPOO
+[submodule "Licenciatura/3º Ano/Computação Gráfica/projetoCG"]
+	path = Licenciatura/3º Ano/Computação Gráfica/projetoCG
+	url = https://github.com/AnaHenriques01/projetoCG
+[submodule "Licenciatura/3º Ano/Processamento de Linguagens/projetosPL"]
+	path = Licenciatura/3º Ano/Processamento de Linguagens/projetosPL
+	url = https://github.com/AnaHenriques01/projetosPL
+[submodule "Licenciatura/3º Ano/Comunicações por Computador/projetosCC"]
+	path = Licenciatura/3º Ano/Comunicações por Computador/projetosCC
+	url = https://github.com/AnaHenriques01/projetosCC
+[submodule "Licenciatura/3º Ano/Desenvolvimento de Sistemas de Software/projetoDSS"]
+	path = Licenciatura/3º Ano/Desenvolvimento de Sistemas de Software/projetoDSS
+	url = https://github.com/AnaHenriques01/projetoDSS
+[submodule "Licenciatura/3º Ano/Sistemas Distribuídos/projetoSD"]
+	path = Licenciatura/3º Ano/Sistemas Distribuídos/projetoSD
+	url = https://github.com/AnaHenriques01/projetoSD
+[submodule "Licenciatura/3º Ano/Cálculo de Programas/projetoCP"]
+	path = Licenciatura/3º Ano/Cálculo de Programas/projetoCP
+	url = https://github.com/AnaHenriques01/projetoCP
+[submodule "Licenciatura/3º Ano/Inteligência Artificial/projetoIA"]
+	path = Licenciatura/3º Ano/Inteligência Artificial/projetoIA
+	url = https://github.com/AnaHenriques01/projetoIA
+[submodule "Licenciatura/3º Ano/Aprendizagem e Decisão Inteligentes/projetoADI"]
+	path = Licenciatura/3º Ano/Aprendizagem e Decisão Inteligentes/projetoADI
+	url = https://github.com/AnaHenriques01/projetoADI
+[submodule "Licenciatura/3º Ano/Laboratórios de Informática IV/projetoLI4"]
+	path = Licenciatura/3º Ano/Laboratórios de Informática IV/projetoLI4
+	url = https://github.com/AnaHenriques01/projetoLI4
