@@ -49,3 +49,15 @@
 [submodule "Licenciatura/1º Ano/Laboratórios de Informática II/jogTabRastro"]
 	path = Licenciatura/1º Ano/Laboratórios de Informática II/jogTabRastro
 	url = https://github.com/Gustominox/jogTabRastro
+[submodule "Mestrado/1º Ano/1º Semestre/Aprendizagem e Decisão Inteligentes/projetoDAA"]
+	path = Mestrado/1º Ano/1º Semestre/Aprendizagem e Decisão Inteligentes/projetoDAA
+	url = https://github.com/AnaHenriques01/projetoDAA
+[submodule "Mestrado/1º Ano/1º Semestre/Requisitos e Arquiteturas de Software/projetoRAS"]
+	path = Mestrado/1º Ano/1º Semestre/Requisitos e Arquiteturas de Software/projetoRAS
+	url = https://github.com/AnaHenriques01/projetoRAS
+[submodule "Mestrado/1º Ano/1º Semestre/Computação Paralela/projetosCP"]
+	path = Mestrado/1º Ano/1º Semestre/Computação Paralela/projetosCP
+	url = https://github.com/AnaHenriques01/projetosCP
+[submodule "Mestrado/1º Ano/1º Semestre/Aplicações e Serviços de Computação em Nuvem/projetoASCN"]
+	path = Mestrado/1º Ano/1º Semestre/Aplicações e Serviços de Computação em Nuvem/projetoASCN
+	url = https://github.com/AnaHenriques01/projetoASCN
