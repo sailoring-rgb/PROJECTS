@@ -1,3 +1,21 @@
 [submodule "Licenciatura/2º Ano/Comunicação de Dados/projetoCD"]
 	path = Licenciatura/2º Ano/Comunicação de Dados/projetoCD
 	url = https://github.com/AnaHenriques01/projetoCD
+[submodule "Licenciatura/2º Ano/Sistemas Operacionais/projetoSO"]
+	path = Licenciatura/2º Ano/Sistemas Operacionais/projetoSO
+	url = https://github.com/AnaHenriques01/projetoSO
+[submodule "Licenciatura/2º Ano/Laboratórios de Informática III/projetosLI3"]
+	path = Licenciatura/2º Ano/Laboratórios de Informática III/projetosLI3
+	url = https://github.com/AnaHenriques01/projetosLI3
+[submodule "Licenciatura/2º Ano/Investigação Operacional/projetosIO"]
+	path = Licenciatura/2º Ano/Investigação Operacional/projetosIO
+	url = https://github.com/AnaHenriques01/projetosIO
+[submodule "Licenciatura/2º Ano/Redes de Computadores/projetosRC"]
+	path = Licenciatura/2º Ano/Redes de Computadores/projetosRC
+	url = https://github.com/AnaHenriques01/projetosRC
+[submodule "Licenciatura/2º Ano/Métodos Numéricos e Otimização Não Linear/projetoMNONL"]
+	path = Licenciatura/2º Ano/Métodos Numéricos e Otimização Não Linear/projetoMNONL
+	url = https://github.com/AnaHenriques01/projetoMNONL
+[submodule "Licenciatura/2º Ano/Programação Orientada aos Objetos/projetoPOO"]
+	path = Licenciatura/2º Ano/Programação Orientada aos Objetos/projetoPOO
+	url = https://github.com/AnaHenriques01/projetoPOO
