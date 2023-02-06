@@ -46,3 +46,6 @@
 [submodule "Licenciatura/3º Ano/Laboratórios de Informática IV/projetoLI4"]
 	path = Licenciatura/3º Ano/Laboratórios de Informática IV/projetoLI4
 	url = https://github.com/AnaHenriques01/projetoLI4
+[submodule "Licenciatura/1º Ano/Laboratórios de Informática II/jogTabRastro"]
+	path = Licenciatura/1º Ano/Laboratórios de Informática II/jogTabRastro
+	url = https://github.com/Gustominox/jogTabRastro
