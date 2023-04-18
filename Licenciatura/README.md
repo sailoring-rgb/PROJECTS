@@ -1,7 +1,5 @@
 # BSc / Licenciatura
 
-<br>
-
 ### `Scientific Areas`:
 
 - **[I]** - Informatic

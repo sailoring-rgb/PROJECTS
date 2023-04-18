@@ -1,7 +1,5 @@
 # MSc / Mestrado
 
-<br>
-
 ### `Specialization Areas` (<ins>1st Year, 2nd Semester</ins>):
 
 - **[IS]** - Intelligent Systems
