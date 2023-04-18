@@ -4,9 +4,8 @@
 
 A repository with every project I accomplished in my **BSc and MSc in Computer Engineering 👨‍💻**, <ins>University of Minho</ins>.
 
-<br>
 
-### Scientific Areas:
+### `Scientific Areas`:
 
 - **[I]** - Informatic
 - **[ES]** - Engineering Science
@@ -77,9 +76,11 @@ A repository with every project I accomplished in my **BSc and MSc in Computer E
       </ul>
     </th>
   </tr>
-</table><br>
+</table>
 
-### Specialization Areas (<ins>1st Year, 2nd Semester</ins>):
+<br>
+
+### `Specialization Areas` (<ins>1st Year, 2nd Semester</ins>):
 
 - **[IS]** - Intelligent Systems
 - **[FMP]** - Formal Methods of Programming
