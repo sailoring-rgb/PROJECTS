@@ -20,7 +20,12 @@ A repository with every project I accomplished in my **BSc and MSc in Computer E
     <th colspan="2"><ins>1st Year</ins></th>
   </tr>
   <tr>
-    <th colspan="2" align="left"><ul><li>Informatic Laboratories I</th>
+    <th><ins>1st Semester</ins></th>
+    <th><ins>2nd Semester</ins></th>
+  </tr>
+  <tr>
+    <th>-</th>
+    <th align="left"><ul><li>Informatic Laboratories I</li></ul></th>
   </tr>
   <tr>
     <th colspan="2"><ins>2nd Year</ins></th>
