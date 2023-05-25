@@ -67,6 +67,3 @@
 [submodule "Mestrado/1º Ano/1º Semestre/Engenharia de Serviços em Rede/projetosESR"]
 	path = Mestrado/1º Ano/1º Semestre/Engenharia de Serviços em Rede/projetosESR
 	url = https://github.com/AnaHenriques01/projetosESR
-[submodule "Mestrado/1º Ano/2º Semestre/Sistemas Inteligentes/Agentes e Sistemas Multiagente/Airport-System"]
-	path = Mestrado/1º Ano/2º Semestre/Sistemas Inteligentes/Agentes e Sistemas Multiagente/Airport-System
-	url = https://github.com/LittleLevi05/Airport-System
