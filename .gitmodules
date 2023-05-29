@@ -70,6 +70,6 @@
 [submodule "Mestrado/1º Ano/2º Semestre/Sistemas Inteligentes/Agentes e Sistemas Multiagente/Airport-System"]
 	path = Mestrado/1º Ano/2º Semestre/Sistemas Inteligentes/Agentes e Sistemas Multiagente/Airport-System
 	url = https://github.com/LittleLevi05/Airport-System
-[submodule "Musarise"]
-	path = Musarise
+[submodule "Mestrado/1º Ano/2º Semestre/Sistemas Inteligentes/Sensorização & Ambiente/Musarise"]
+	path = Mestrado/1º Ano/2º Semestre/Sistemas Inteligentes/Sensorização & Ambiente/Musarise
 	url = https://github.com/sailoring-rgb/Musarise
