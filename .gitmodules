@@ -73,3 +73,6 @@
 [submodule "Mestrado/1º Ano/2º Semestre/Sistemas Inteligentes/Sensorização & Ambiente/Musarise"]
 	path = Mestrado/1º Ano/2º Semestre/Sistemas Inteligentes/Sensorização & Ambiente/Musarise
 	url = https://github.com/sailoring-rgb/Musarise
+[submodule "Mestrado/1º Ano/2º Semestre/Sistemas Inteligentes/Aprendizagem Profunda/Music-Learning"]
+	path = Mestrado/1º Ano/2º Semestre/Sistemas Inteligentes/Aprendizagem Profunda/Music-Learning
+	url = https://github.com/sailoring-rgb/Music-Learning
